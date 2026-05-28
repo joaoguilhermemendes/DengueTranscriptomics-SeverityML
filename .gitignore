@@ -1,0 +1,9 @@
+*.tar
+*.gz
+*.fastq
+*.bam
+*.sam
+*.zip
+
+data/raw/*
+!data/raw/.gitkeep
