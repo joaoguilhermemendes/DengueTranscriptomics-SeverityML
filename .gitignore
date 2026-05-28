@@ -6,4 +6,5 @@
 *.zip
 
 data/raw/*
+data/interim/
 !data/raw/.gitkeep
